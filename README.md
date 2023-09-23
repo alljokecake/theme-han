@@ -10,5 +10,5 @@
 ## Configuration
 * Set the following variable in your `~/.config/fish/config.fish` in order to use han.
 ```fish
-fish_vi_mode
+fish_vi_key_bindings
 ```
