@@ -1,4 +1,5 @@
 # han
+----
 
 ## Features
 
@@ -7,11 +8,11 @@
 * Git support
 
 ## Compact vi mode support
-----
-* > insert
-* < normal 
-* v visual
-* _ replace
+* NOTE: these are not the keybindings.
+* `>` -- INSERT --
+* `<` -- NORMAL -- 
+* `v` -- VISUAL -- 
+* `_` -- REPLACE -- 
 
 ## Configuration
 * Set the following variable in your `~/.config/fish/config.fish` in order to use han.
