@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="/img/han.png">
+    <img src="/img/han.png" width="200"/>
 </h1>
+
 # han
-----
 
 ## Features
 
